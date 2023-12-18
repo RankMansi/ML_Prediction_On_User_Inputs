@@ -1,10 +1,10 @@
 # Predictions based on User Inputs
 
-This repository contains a machine learning model that predicts ages and heights based on user inputs. The model is trained using [describe your dataset/source].
+This repository contains a machine learning model that predicts based on user inputs.
 
 ## Features
 
-- **Prediction Model**: Utilizes [mention the ML algorithm or framework used] to make predictions.
+- **Prediction Model**: Utilizes Linear Regression to make predictions.
 - **User Input Interface**: Provides a user-friendly interface to input data for predictions.
 
 ## Requirements
@@ -27,15 +27,8 @@ This repository contains a machine learning model that predicts ages and heights
 
 1. Run the script:
    ```bash
-   python predict.py
+   flask run
    ```
-
-2. Follow the prompts to input the necessary data.
-
-## Dataset
-
-- The model is trained on a dataset sourced from [mention the dataset source]. 
-- [Add any relevant information about the dataset used for training]
 
 ## Contribution
 
