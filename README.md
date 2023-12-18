@@ -7,10 +7,6 @@ This repository contains a machine learning model that predicts based on user in
 - **Prediction Model**: Utilizes Linear Regression to make predictions.
 - **User Input Interface**: Provides a user-friendly interface to input data for predictions.
 
-## Requirements
-
-- [List any specific libraries or dependencies required to run the code]
-
 ## Installation
 
 1. Clone the repository: 
